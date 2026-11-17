@@ -1,5 +1,7 @@
 # Splunk SOC Lab — Threat Intelligence, IOC/IOA Detection & Threat Hunting
 
+> Built a Splunk SIEM lab to analyze Linux security logs, investigate IOCs and IOAs, detect suspicious SSH activity, and examine network reconnaissance using Nmap and Wireshark.
+
 **Hands-on SOC investigation | Splunk Enterprise · Kali Linux · Ubuntu · Wireshark · Nmap · VMware Workstation**
 
 ## Overview
